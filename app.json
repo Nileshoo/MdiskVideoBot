@@ -11,8 +11,8 @@
     "logo": "https://telegra.ph/file/51a84cdd8254ee0406683.jpg", 
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token (6031223498:AAG5Jc3ya1TJZA2jgW4HMtCANcohQ8ykCOs)",
-            "value": ""
+            "description": "Your bot token ",
+            "value": "6031223498:AAG5Jc3ya1TJZA2jgW4HMtCANcohQ8ykCOs"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
